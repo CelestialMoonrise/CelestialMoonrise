@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CelestialMoonrise
 - 👀 I’m interested in joining art with coding.
-- 🌱 I’m currently learning PYTHON
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me via Gmail: celestialmoonrise13@gmail.com
 
